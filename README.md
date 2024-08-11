@@ -36,7 +36,7 @@ Below are some screenshots of the application to give you a visual overview:
 ![Home](https://github.com/user-attachments/assets/c341fd6d-fb9e-4f7e-b289-5a47f872a356)
 
 ### Product Details
-(![Product_details](https://github.com/user-attachments/assets/af7d4009-61d2-4af3-b0bb-40f33eaae1da)
+![Product_details](https://github.com/user-attachments/assets/af7d4009-61d2-4af3-b0bb-40f33eaae1da)
 
 ### Admin Dashboard
 ![AdminHome](https://github.com/user-attachments/assets/d818c30a-4ec5-41bb-9adb-13dece92f3ea)
