@@ -27,19 +27,19 @@ Welcome to the Store App, a Flutter-based application that provides a complete s
 Below are some screenshots of the application to give you a visual overview:
 
 ### Sign Up Page
-![Sign Up Page]![Sign](https://github.com/user-attachments/assets/bc3e3708-5bc8-4893-a5d4-c818f2b36eda)
+![Sign](https://github.com/user-attachments/assets/bc3e3708-5bc8-4893-a5d4-c818f2b36eda)
 
 ### Login Page
-![Login Page]![Login](https://github.com/user-attachments/assets/5b7030f9-d655-4e32-8886-0b37c48b2f70)
+![Login](https://github.com/user-attachments/assets/5b7030f9-d655-4e32-8886-0b37c48b2f70)
 
 ### Home Page
-![Home Page]![Home](https://github.com/user-attachments/assets/c341fd6d-fb9e-4f7e-b289-5a47f872a356)
+![Home](https://github.com/user-attachments/assets/c341fd6d-fb9e-4f7e-b289-5a47f872a356)
 
 ### Product Details
 ![Product Details](![Product_details](https://github.com/user-attachments/assets/af7d4009-61d2-4af3-b0bb-40f33eaae1da))
 
 ### Admin Dashboard
-![Admin Dashboard]![AdminHome](https://github.com/user-attachments/assets/d818c30a-4ec5-41bb-9adb-13dece92f3ea)
+![AdminHome](https://github.com/user-attachments/assets/d818c30a-4ec5-41bb-9adb-13dece92f3ea)
 
 
 ### User Favorites
